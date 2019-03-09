@@ -11,6 +11,7 @@
 main{
 	width: 960px;
 	padding: 50px auto;
+	margin: 0 auto;
 }
 .step-box{
   float: left; /* 要素を左揃えで並べる */
